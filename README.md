@@ -1,2 +1,2 @@
-# FarmStack_Project
+># _FarmStack_Project_ <img src="https://skillicons.dev/icons?i=fastapi,react,mongo" /><br>
 This is a farm stack ( fastapi, react, mongoDB ) todo list.
