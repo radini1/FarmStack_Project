@@ -8,6 +8,11 @@ _for the backend:_<br>
 install [mongoDB community server](https://www.mongodb.com/try/download/community).<br>
 Create your database and connect it on `localhost` port `27017`.<br>
 run the app by `uvicorn main:app --reload`.
+<br>
+_for the frontend:_<br>
+Make sure you've installed nodejs.<br> 
+
+
 ***
 main source code => [here](https://github.com/BekBrace/FARM-Stack-Course)
 ***
