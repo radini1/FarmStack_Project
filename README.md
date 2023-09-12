@@ -12,7 +12,7 @@ run the app by `uvicorn main:app --reload`.
 _➡️for the frontend:_<br>
 Make sure you've installed nodejs.<br>
 Make sure you've npm.<br> 
-npx create-react-app fronend.<br>
+`npx create-react-app fronend`.<br>
 then `npm start` and `npm install axios bootstrap`.
 
 
