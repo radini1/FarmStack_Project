@@ -10,7 +10,10 @@ Create your database and connect it on `localhost` port `27017`.<br>
 run the app by `uvicorn main:app --reload`.
 <br>
 _➡️for the frontend:_<br>
-Make sure you've installed nodejs.<br> 
+Make sure you've installed nodejs.<br>
+Make sure you've npm.<br> 
+npx create-react-app fronend.<br>
+then `npm start` and `npm install axios bootstrap`.
 
 
 ***
