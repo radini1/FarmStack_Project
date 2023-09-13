@@ -8,7 +8,8 @@ _➡️for the backend:_<br>
 install [mongoDB community server](https://www.mongodb.com/try/download/community).<br>
 Create your database and connect it on `localhost` port `27017`.<br>
 run the app by `uvicorn main:app --reload`.
-<hr>
+</hr>
+
 _➡️for the frontend:_<br>
 Make sure you've installed nodejs.<br>
 Make sure you've npm.<br> 
